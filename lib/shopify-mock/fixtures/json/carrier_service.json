@@ -1,0 +1,20 @@
+{
+  "carrier_services": [
+    {
+      "id": 1006327371,
+      "name": "wynd",
+      "active": true,
+      "service_discovery": true,
+      "carrier_service_type": "api",
+      "format": "json"
+    },
+    {
+      "id": 2006327372,
+      "name": "not wynd",
+      "active": true,
+      "service_discovery": true,
+      "carrier_service_type": "api",
+      "format": "json"
+    }
+  ]
+}
